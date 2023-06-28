@@ -1,17 +1,17 @@
 Welcome to the Java Journal! We are a powerful task management application designed to help you stay organized and productive throughout your busy week. With an intuitive user interface and robust features, it's the perfect tool for managing your tasks and events effectively. Here are the main features of our application:
 
-Week View: View an entire week visualization of all events and tasks in the Java Journal
-Task Creation and Editing: Easily create and edit tasks with a simple and user-friendly interface.
-Commitment Warnings: Allow clients to set the maximum number of events and tasks each day
-Persistence: Let the user click Save to persist the data in a Week to a file
-Task Queue: A queue sidebar which contains all tasks for the week and whether they are completed or not
-Categories: This feature allows each event or task to be categorized
-Quotes & Notes: A designated section where the user can type and save a quote or note on their Week.
-Mini Viewer: A view option which can open any single Event or Task in a new mini window displaying all details
-Takesie-backsies: A delete button in which a user can delete tasks and events
-Auto #tags: Prepending a category name with a # when titling a Task/Event automatically assign an associated category
-Mind Changes: Edit button in which users can edit any aspect of any existing Event or Task from the Week view.
-Weekly Starters(Steps for creating template: 1. Create new file 2. Set Max Tasks & Events 3. Creates Event or Task with desired category 4.Delete all events and tasks till empty 5. Save Template with desired name.) : Get template from .bujo file and override file at will.
+- Week View: View an entire week visualization of all events and tasks in the Java Journal
+- Task Creation and Editing: Easily create and edit tasks with a simple and user-friendly interface.
+- Commitment Warnings: Allow clients to set the maximum number of events and tasks each day
+- Persistence: Let the user click Save to persist the data in a Week to a file
+- Task Queue: A queue sidebar which contains all tasks for the week and whether they are completed or not
+- Categories: This feature allows each event or task to be categorized
+- Quotes & Notes: A designated section where the user can type and save a quote or note on their Week.
+- Mini Viewer: A view option which can open any single Event or Task in a new mini window displaying all details
+- Takesie-backsies: A delete button in which a user can delete tasks and events
+- Auto #tags: Prepending a category name with a # when titling a Task/Event automatically assign an associated category
+- Mind Changes: Edit button in which users can edit any aspect of any existing Event or Task from the Week view.
+- Weekly Starters(Steps for creating template: 1. Create new file 2. Set Max Tasks & Events 3. Creates Event or Task with desired category 4.Delete all events and tasks till empty 5. Save Template with desired name.) : Get template from .bujo file and override file at will.
 
 
 Solid Principles:
